@@ -88,8 +88,8 @@ DATABASES = {
         'NAME': 'cobrandoApp',
         'USER': 'emmanuelPerea',
         'PASSWORD': 'Tpa2019*',
-        'HOST': 'postgresql-88937-0.cloudclusters.net',
-        'PORT': '10683',
+        'HOST': 'postgresql-90364-0.cloudclusters.net',
+        'PORT': '18778',
         
     }
 }
